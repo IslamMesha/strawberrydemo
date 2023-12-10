@@ -1,2 +1,2 @@
-# strawberrydemo
+# Strawberry demo
 Strawberry Django demo
