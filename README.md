@@ -1,0 +1,2 @@
+# strawberrydemo
+Strawberry Django demo
